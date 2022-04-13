@@ -7,8 +7,7 @@
 
 
 
-<h3 align="left">Connect with me: KingJessie</h3>
-<p align="left">
+<p align="centre">
 </p>
 
 
