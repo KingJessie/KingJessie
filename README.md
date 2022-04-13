@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 
-<img align="right" atl="coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" atl="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FcI3eAVLXj48AAAAC%2Fhello-world.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fhello-world-gif-19688045&tbnid=nVJWHrTtYCIegM&vet=12ahUKEwid4dHFzJH3AhU_E2MBHXbyCFwQMygDegUIARD4AQ..i&docid=Ju0pjvFXQy68GM&w=498&h=249&q=hello%20world%20gif&client=firefox-b-d&ved=2ahUKEwid4dHFzJH3AhU_E2MBHXbyCFwQMygDegUIARD4AQ">
 
 - 🌱 I’m currently learning **Javascript and Python**
 
