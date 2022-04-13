@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **JavaScript and Python**
 
-- 👀 I’m interested in **Software Engineering**
+- 👀 I’m interested in **Software Engineering and Web Development**
 
 - 🤝 I’m looking for help with **finding a mentor**
 
