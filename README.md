@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 
-<img align="right" atl="coding" width="400" src="https://dribbble.com/shots/5507196-women-who-code">
+<img align="right" atl="coding" width="400" src="https://dribbble.com/shots/5507196-women-who-code.gif">
 
 - 🌱 I’m currently learning **Javascript and Python**
 
