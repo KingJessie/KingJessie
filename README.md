@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 
-<img align="right" atl="coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" atl="coding" width="400" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr">
 
 - 🌱 I’m currently learning **Javascript and Python**
 
