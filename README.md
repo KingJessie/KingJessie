@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 
-- 🌱 I’m currently learning **JavaScript and Python**
+
 - 🎉 Recently, I completed a Software Engineer training programme with **SKY and CFG**
 - 👀 I’m interested in **Software Engineering and Web Development** and looking to collaborate on projects.
 
