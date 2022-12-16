@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 
+Welcome to my GitHub profile!
+I am a trainee software developer and technology enthusiast with a passion for solving complex problems and creating innovative solutions.
 
-
+Feel free to take a look at my portfolio and get in touch if you have any questions or would like to collaborate on a project. I am always open to new opportunities and look forward to connecting with other like-minded professionals.
 
 
 <p align="centre">
