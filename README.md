@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 
 
-- 🎉 Recently, I completed a Software Engineer training programme with **SKY and CFG**
-- 👀 I’m interested in **Web Development** and looking to collaborate on projects.
 
 
 
