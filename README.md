@@ -22,6 +22,6 @@ Feel free to take a look at my portfolio and get in touch if you have any questi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingjessie&langs_count=8)](https://github.com/kingjessie/github-readme-stats)
 
  Visitor Counter </br>
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{kingjessie}/count.svg)
 
 
