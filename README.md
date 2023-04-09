@@ -6,7 +6,7 @@ I am a trainee software developer and technology enthusiast with a passion for s
 
 Feel free to take a look at my portfolio and get in touch if you have any questions or would like to collaborate on a project. I am always open to new opportunities and look forward to connecting with other like-minded professionals.
 
-Contact: Kingjessiex@gmail.com
+
 
 <p align="centre">
 </p>
