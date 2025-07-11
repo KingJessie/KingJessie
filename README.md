@@ -4,8 +4,3 @@
 Welcome to my GitHub profile!
 
 
-
- Visitor Counter </br>
-![Visitor Count](https://profile-counter.glitch.me/{kingjessie}/count.svg)
-
-
